@@ -4,7 +4,7 @@
 <head>
     <title>Street View Directions</title>
 <script async
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkj4qom_vvXMFCJbKUv3TeaPEC7RqAFPE&libraries=places&loading=async&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key="Your_Api_Key"&libraries=places&loading=async&callback=initMap">
 </script>
 
     <style>
